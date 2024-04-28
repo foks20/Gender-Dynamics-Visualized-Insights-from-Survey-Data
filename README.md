@@ -20,4 +20,4 @@ The goal of the application is to use Pandas and Matplotlib to generate various 
 
 Below is an example of the visualizations created by this application:
 
-<img src="path_to_your_image.png" alt="Sample Visualization">
+<img src="1.png" alt="Sample Visualization">
