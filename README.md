@@ -1,8 +1,7 @@
+# Gender-Dynamics-Visualized-Insights-from-Survey-Data
 
-
-# React IOS Calculator
-
-This project recreates the iconic iOS calculator interface using ReactJS. Designed to mimic the look and functionality of the native iOS calculator, this application provides a familiar user experience for desktop web browsers. 
+This Python application processes a cleaned-up Excel dataset derived from a survey that compares male and female responses. 
+The goal of the application is to use Pandas and Matplotlib to generate various visualizations, such as pie charts and other graphs, to effectively illustrate the data insights.
 
 
 ## Requirements
